@@ -1,218 +1,282 @@
-\# Math \& Python Roadmap
+Math & Python Roadmap
 
+Este repositório documenta minha jornada de aprendizado em duas das hard skills mais importantes da tecnologia: matemática e programação em Python.
+A proposta é integrar conceitos matemáticos com aplicações práticas em código, criando uma trilha de 100 desafios progressivos — do básico ao avançado.
 
-
-Este repositório documenta minha jornada de aprendizado em duas das hard skills mais importantes da tecnologia: matemática e programação em Python. A proposta é integrar conceitos matemáticos com aplicações práticas em código, criando uma trilha de 50 desafios progressivos — do básico ao avançado.
-
-
-
-\## Objetivo
-
-
+Objetivo
 
 Desenvolver proficiência em matemática e programação de forma integrada, com foco em:
 
+Raciocínio lógico e computacional
 
+Criação de variáveis e funções
 
-\- Raciocínio lógico e computacional
+Resolução de problemas matemáticos com código
 
-\- Criação de variáveis e funções
+Visualização e modelagem de dados
 
-\- Resolução de problemas matemáticos com código
+Preparação para projetos reais e entrevistas técnicas
 
-\- Visualização e modelagem de dados
+Estrutura do Projeto
 
-\- Preparação para projetos reais e entrevistas técnicas
+O projeto está dividido em 100 desafios, cada um com:
 
+Pasta nomeada com o tema do desafio
 
+caderno.ipynb: notebook Jupyter com explicações, código e exercícios
 
-\## Estrutura do Projeto
+README.md: resumo do desafio
 
+notas.txt: reflexões e aprendizados pessoais
 
+Lista de Desafios
+Fundamentos Matemáticos e Python (1–25)
 
-O projeto está dividido em 50 desafios, cada um com:
+Números e Variáveis
 
+Operações Aritméticas
 
+Frações e Conversões
 
-\- Pasta nomeada com o tema do desafio
+Álgebra Simples
 
-\- caderno.ipynb: notebook Jupyter com explicações, código e exercícios
+Funções em Python
 
-\- README.md: resumo do desafio
+Potenciação e Radiciação
 
-\- notas.txt: reflexões e aprendizados pessoais
+Múltiplos e Divisores
 
+Números Primos
 
+Mínimo e Máximo
 
-\## Lista de Desafios
+Estatística Básica
 
+Porcentagem
 
+Regra de Três
 
-01\. Números e Variáveis
+Equações do 1º Grau
 
-02\. Operações Aritméticas
+Equações do 2º Grau
 
-03\. Frações e Conversões
+Sistemas Lineares
 
-04\. Álgebra Simples
+Geometria Plana
 
-05\. Funções em Python
+Geometria Espacial
 
-06\. Potenciação e Radiciação
+Trigonometria Básica
 
-07\. Múltiplos e Divisores
+Ângulos e Círculos
 
-08\. Números Primos
+Probabilidade Básica
 
-09\. Mínimo e Máximo
+Estatística Descritiva
 
-10\. Estatística Básica
+Conjuntos
 
-11\. Porcentagem
+Matrizes
 
-12\. Regra de Três
+Vetores e NumPy
 
-13\. Equações do 1º Grau
+Função Linear
 
-14\. Equações do 2º Grau
+Matemática Aplicada e Computacional (26–50)
 
-15\. Sistemas Lineares
+Função Quadrática
 
-16\. Geometria Plana
+Progressões (PA e PG)
 
-17\. Geometria Espacial
+Logaritmos
 
-18\. Trigonometria Básica
+Derivadas
 
-19\. Ângulos e Círculos
+Integrais
 
-20\. Probabilidade Básica
+Limites
 
-21\. Estatística Descritiva
+Probabilidade Avançada
 
-22\. Conjuntos
+Estatística Inferencial
 
-23\. Matrizes
+Álgebra Abstrata
 
-24\. Vetores e Numpy
+Combinatória
 
-25\. Função Linear
+Teoria dos Números
 
-26\. Função Quadrática
+Geometria Analítica
 
-27\. Progressões (PA e PG)
+Função Exponencial
 
-28\. Logaritmos
+Modelagem Matemática
 
-29\. Derivadas
+Algoritmos Matemáticos
 
-30\. Integrais
+Recursão
 
-31\. Limites
+Complexidade
 
-32\. Probabilidade Avançada
+Grafos
 
-33\. Estatística Inferencial
+Álgebra Linear
 
-34\. Álgebra Abstrata
+Machine Learning Básico
 
-35\. Combinatória
+Estatística Computacional
 
-36\. Teoria dos Números
+Visualização de Dados
 
-37\. Geometria Analítica
+Projeto: Calculadora Científica
 
-38\. Função Exponencial
+Projeto: Simulador Estatístico
 
-39\. Modelagem Matemática
+Projeto: Aplicação Matemática com Interface
 
-40\. Algoritmos Matemáticos
+Estatística, Modelagem e Aprendizado (51–75)
 
-41\. Recursão
+Regressão Linear e Correlação
 
-42\. Complexidade
+Análise de Regressão Múltipla
 
-43\. Grafos
+Distribuições de Probabilidade (Normal, Binomial, Poisson)
 
-44\. Álgebra Linear
+Intervalos de Confiança e Testes de Hipóteses
 
-45\. Machine Learning Básico
+Análise de Séries Temporais
 
-46\. Estatística Computacional
+Modelagem de Crescimento (Exponencial e Logístico)
 
-47\. Visualização de Dados
+Cálculo Numérico (Método de Newton e Bisseção)
 
-48\. Projeto: Calculadora Científica
+Álgebra Linear Avançada (Autovalores e Autovetores)
 
-49\. Projeto: Simulador Estatístico
+Decomposição de Matrizes (LU, QR, SVD)
 
-50\. Projeto: Aplicação Matemática com Interface
+Otimização Linear (Simplex e Programação Linear)
 
+Simulação de Monte Carlo
 
+Probabilidade Condicional em Cadeias de Markov
 
-\## Tecnologias Utilizadas
+Inferência Bayesiana com Python
 
+Análise de Componentes Principais (PCA)
 
+Clusterização (K-Means e Hierárquico)
 
-\- Python 3.x
+Regressão Polinomial e Overfitting
 
-\- Jupyter Notebook
+Curva de Aprendizado e Validação Cruzada
 
-\- NumPy, SymPy, Matplotlib, Pandas
+Introdução a Redes Neurais (Perceptron)
 
-\- Git e GitHub
+Análise de Dados Reais (usando Pandas e NumPy)
 
+Visualização Avançada com Plotly e Seaborn
 
+Análise Exploratória de Dados (EDA)
 
-\## Como Usar
+Modelagem de Fenômenos Físicos (Movimento, Crescimento, Difusão)
 
+Projeto: Otimização de Processos Industriais
 
+Projeto: Previsão Estatística de Rendimento
 
-1\. Clone o repositório:
+Projeto Final: Aplicação Matemática Integrada com Machine Learning
+
+Projetos e Integrações Avançadas (76–100)
+
+Processamento de Dados com Pandas Avançado
+
+Integração com APIs Científicas
+
+Análise de Sensibilidade em Modelos
+
+Simulações Estocásticas
+
+Modelagem Multivariada
+
+Modelos de Regressão Generalizados (GLM)
+
+Séries Temporais Avançadas (ARIMA, SARIMA)
+
+Modelagem de Sistemas Dinâmicos
+
+Detecção de Anomalias em Dados
+
+Visualização Interativa com Dash e Plotly
+
+Modelos de Classificação (Logístico, Árvores, KNN)
+
+Regressão Regularizada (Lasso, Ridge, ElasticNet)
+
+Seleção de Variáveis e Feature Engineering
+
+Avaliação de Modelos e Métricas
+
+Otimização Bayesiana
+
+Introdução a Deep Learning
+
+Redes Neurais Convolucionais (CNN)
+
+Redes Recorrentes (RNN e LSTM)
+
+Autoencoders e Redução Dimensional
+
+Modelos de Séries com Redes Neurais
+
+Projeto: Predição de Demanda com Deep Learning
+
+Projeto: Análise de Produção Industrial em Tempo Real
+
+Projeto: Dashboard Interativo de Análise Matemática
+
+Projeto: Modelo de Previsão e Otimização Integrado
+
+Projeto Final: Math + Python – Inteligência Aplicada
+
+Tecnologias Utilizadas
+
+Python 3.x
+
+Jupyter Notebook
+
+NumPy, SymPy, Matplotlib, Pandas, Scikit-learn
+
+Git e GitHub
+
+Como Usar
+
+Clone o repositório
 
 git clone https://github.com/seu-usuario/math-python-roadmap.git
 
 
+Navegue até a pasta do desafio desejado
 
-2. Navegue até a pasta de qualquer desafio
+Abra o arquivo caderno.ipynb com Jupyter
 
-3\. Abra o caderno.ipynb com Jupyter
+Execute, estude, modifique e pratique
 
-4\. Execute, estude, modifique e pratique
+Contribuições
 
+Este projeto é pessoal, mas aberto a sugestões, melhorias e colaborações.
 
+Faça um fork
 
-\## Contribuições
+Crie uma branch (feature/nome)
 
+Envie um pull request com suas melhorias
 
+Autor
 
-Este projeto é pessoal, mas aberto a sugestões, melhorias e colaborações. Se quiser contribuir:
+Pedro Cantão – Brasil
+Cientista em formação, com foco em matemática aplicada e soluções inteligentes.
 
+Licença
 
-
-\- Faça um fork
-
-\- Crie uma branch (feature/nome)
-
-\- Envie um pull request com suas melhorias
-
-
-
-\## Autor
-
-
-
-Pedro Cantão
-
-Brasil
-
-Desenvolvedor em formação, com foco em matemática aplicada e soluções inteligentes
-
-
-
-\## Licença
-
-
-
-Este projeto está sob a licença MIT. Sinta-se livre para usar, estudar e adaptar.
-
+Este projeto está sob a licença MIT.
+Sinta-se livre para usar, estudar e adaptar.
